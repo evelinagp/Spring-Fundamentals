@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.mvc.hidden-method.server.port",
+      "type": "java.lang.String",
+      "description": "Description for spring.mvc.hidden-method.server.port."
+  }
+] }
